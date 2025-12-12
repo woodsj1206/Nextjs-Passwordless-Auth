@@ -69,7 +69,7 @@ npx prisma generate
 npx prisma migrate dev --name init
 ```
 
-### 5. Run the Development Server:
+### 5. Run the Development Server
 Run the development server:
 ```bash
 npm run dev
